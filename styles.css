@@ -35,11 +35,11 @@ body{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Cute border frame */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
 }
 
 .text, .yuzde, .sarjDurum {
-    font-family: 'Mochiy Pop One'; /* Use the 'Architects Daughter' font */
+    font-family: 'Fira Sans', sans-serif;
     color: #ffffffb9;
 }
 
